@@ -1,2 +1,2 @@
 # nauticalanalogue
-issues for Nautical Analogue midi instrument
+The Nautical Analogue installation for [Sound City](http://www.liverpoolsoundcity.co.uk/).
