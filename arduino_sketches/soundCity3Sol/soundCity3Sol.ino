@@ -1,6 +1,6 @@
 int sol1 = 3;
-int sol2 = 4;
-int sol3 = 5;
+int sol2 = 5;
+int sol3 = 6;
 
 int sol1State = 0;
 int sol2State = 0;

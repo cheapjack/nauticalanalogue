@@ -76,7 +76,7 @@
 					"fontname" : "Fira Sans",
 					"fontsize" : 14.0,
 					"id" : "obj-15",
-					"items" : [ "Bluetooth-Incoming-Port", ",", "usbmodem1421" ],
+					"items" : [ "Bluetooth-Incoming-Port", ",", "usbmodem141241", ",", "usbmodem141441" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -165,8 +165,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 255.0, 135.0, 85.0, 20.0 ],
-					"text" : "cycleSolenoid"
+					"patching_rect" : [ 255.0, 135.0, 91.0, 20.0 ],
+					"text" : "cycleSolenoid2"
 				}
 
 			}
@@ -219,7 +219,7 @@
 					"fontname" : "Fira Sans",
 					"fontsize" : 14.0,
 					"id" : "obj-33",
-					"items" : [ "Bluetooth-Incoming-Port", ",", "usbmodem1421" ],
+					"items" : [ "Bluetooth-Incoming-Port", ",", "usbmodem141241", ",", "usbmodem141441" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -648,7 +648,14 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "cycleSolenoid.maxpat",
-				"bootpath" : "/Users/jrmedd/Dropbox/SoundCity",
+				"bootpath" : "/Users/jrmedd/Dropbox/SoundCity/nauticalanalogue/max_patches",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "cycleSolenoid2.maxpat",
+				"bootpath" : "/Users/jrmedd/Dropbox/SoundCity/nauticalanalogue/max_patches",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
