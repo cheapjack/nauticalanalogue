@@ -133,7 +133,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 180.0, 90.0, 50.0, 20.0 ],
-					"text" : "del 100"
+					"text" : "del 200"
 				}
 
 			}
